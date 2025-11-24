@@ -1,0 +1,23 @@
+Enter the number of process and resource types
+5 3
+
+ enter the max instances of each resources
+a= 10
+b= 5
+c= 7
+enter the max resource process required 5x3 matrix7 5 3
+3 2 2
+9 0 2
+4 2 2
+3 3 2
+enter allocation of resource of all process 5x3 matrix0 1 0
+2 0 0
+3 0 2
+2 1 1
+0 0 2
+Enter the number of the requesting process1
+Enter the request vector for the requesting process:
+1 0 2
+Following is the SAFE Sequence
+ P1 -> P3 -> P4 -> P0 -> P2
+Request by procee 1 can be granted
